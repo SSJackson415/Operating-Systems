@@ -11,3 +11,12 @@ various instructions and data in the most efficient manner possible, so that it 
 follow those instructions and interpret that data. This may include assigning some of the open space
 on the hard drive to become a "swap file", temporarily acting as additional memory when the computer's
 resources are exceeded by the user's demands.
+
+Operating System Function: Hardware Configuration
+In order to function, computers must be able to interact with other machines and tools. Users can
+only enter input and receive output with peripheral tools such as a monitor, a keyboard, or a mouse.
+A computer needs to be able to connect with other machines, such as printers, portable hard
+drives, or digital cameras, in order to exchange data between them. Each of these devices has a
+program called a "device driver" which tells the computer how to interact with the device. The
+computer can only interact with a device if the operating system can understand, interpret, and
+execute the instructions in those drivers.
