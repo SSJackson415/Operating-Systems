@@ -4,3 +4,10 @@ the computer. It provides one or more methods for the user to provide the comput
 for the computer to return output to the user. The user may click on images with a mouse button,
 or type commands into a keyboard, or press their finger against a touch-screen, while the computer
 will display text on a monitor, which may or may not be accompanied by images.
+
+Operating System Function: Memory Management
+The operating system is responsible for organizing the computer's memory, dividing it up between
+various instructions and data in the most efficient manner possible, so that it can most effectively
+follow those instructions and interpret that data. This may include assigning some of the open space
+on the hard drive to become a "swap file", temporarily acting as additional memory when the computer's
+resources are exceeded by the user's demands.
