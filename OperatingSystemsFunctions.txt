@@ -1,0 +1,6 @@
+Operating System Function: User Interface
+A computer's operating system determines the inteface, the manner in which the user interacts with
+the computer. It provides one or more methods for the user to provide the computer with input, and
+for the computer to return output to the user. The user may click on images with a mouse button,
+or type commands into a keyboard, or press their finger against a touch-screen, while the computer
+will display text on a monitor, which may or may not be accompanied by images.
